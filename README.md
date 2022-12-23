@@ -9,5 +9,6 @@ Website is hosted in xampp with Apache and MySQL modules on Start.
 Put files inside this C:\xampp\htdocs directory.
 In MySQL Module create a database name cinemaxdb and import cinemaxdb.sql
 
-The admin user is username:Chrisar password:Chrisar.
-To confirm a sign up the admin must change confirmed from 0 to 1 by going on edit user putting only his id and on confirm to put 1 
+Notes: The admin user is username:Chrisar password:Chrisar.
+To confirm a sign up the admin must change confirmed from 0 to 1 by going on edit user putting only his id and on confirm to put 1 .
+Once a user is confirmed i put for every user the password to be the same with username.
